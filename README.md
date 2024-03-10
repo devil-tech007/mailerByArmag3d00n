@@ -29,3 +29,6 @@
 
 
 ![Alt text](<Screenshot from 2024-03-10 17-10-58.png>)
+
+# Alfa 0.0.1 now its puted on the branch I know this code needs optimalisations. I am working at that
+## if someone want to help in improving Mail-Tools can do that ofc ;) 
